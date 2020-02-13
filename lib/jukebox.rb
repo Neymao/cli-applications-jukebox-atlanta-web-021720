@@ -77,8 +77,8 @@ end
  
  
  
- def list (songs)
-   songs.each do 
+ def play (songs)
+   puts 
  
  
  
